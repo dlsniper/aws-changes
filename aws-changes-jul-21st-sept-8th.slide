@@ -1,0 +1,127 @@
+AWS Changes since Jul 21st - Sept 8th
+
+19:00 8 Sept 2015
+Tags: aws, changes
+
+* Alexa Voice Service
+
+- Alexa Voice Service is Now Available in Developer Preview
+
+* Aurora
+
+- Amazon Aurora is Now Available
+
+* CloudFront
+
+- PCI Compliance for Amazon CloudFront
+
+* CloudFormation
+
+- Updated AWS CloudFormation Support for Amazon VPC, AWS Lambda, AWS Elastic Beanstalk, Amazon RDS, and Amazon S3
+
+* CloudHSM
+
+- AWS CloudHSM is Now Available in the AWS GovCloud (US) Region
+
+* CloudWatch
+
+- New Amazon CloudWatch Action – Reboot EC2 Instance
+- CloudWatch Logs Now Supports Cross-Account Subscriptions
+- New Metrics for EC2 Container Service – Clusters & Services
+
+* CodeDeploy
+
+- AWS CodeDeploy is Now Available in the Asia Pacific (Tokyo Region)
+
+* DeviceFarm
+
+- AWS Device Farm Now Includes Support for iOS
+- Sample Apps and Test Scripts for AWS Device Farm
+
+* DirectConnect
+
+- New Direct Connect Locations in Beijing, Osaka, and Frankfurt
+
+* DynamoDB
+
+- Scan Operation Now Supports Consistent Reads
+- New Logstash Plugin to Search DynamoDB Content Using Elasticsearch
+- Store and Process Graph Data Using the DynamoDB Storage Backend for Titan
+- Enhanced DynamoDB Metrics
+
+* EC2
+
+- Amazon Linux AMI 4.1 Kernel Packages are Now Available for Testing
+- Spot Fleet now Launches Spot Instances in the Lowest Priced Availability Zone When You Specify Multiple VPC Subnets or AZs
+- EC2 Container Service is Available in the US West (Northern California) Region
+- Amazon Linux AMI 2015.03.01 is Now Available
+- Amazon Linux AMI 2015.09 Release Candidate is Now Available
+- Subscribe to AWS Public IP Address Changes via Amazon SNS
+- Resource-Oriented Bidding for EC2 Spot Instances
+
+* Elastic Beanstalk
+
+- Elastic Beanstalk Update for Enhanced Application Health Monitoring
+- AWS Elastic Beanstalk is Now Available in the China (Beijing) AWS Region
+
+* ElastiCache
+
+- Amazon ElastiCache now Supports Redis version 2.8.21
+
+* Elastic MapReduce
+
+- Elastic MapReduce 4.0.0 With Updated Applications is Now Available
+
+* Kinesis
+
+- Amazon Kinesis is Now Available in the AWS China (Beijing) Region
+
+* Lambda
+
+- Trigger AWS Lambda Functions using Amazon Simple Workflow
+
+* Machine Learning
+
+- Amazon Machine Learning is Now Available in the EU (Ireland) Region
+- Estimate the Cost of Your Amazon Machine Learning Predictions.
+
+* OpsWorks
+
+- AWS OpsWorks Update to Provision & Manage ECS Container Instances and Run RHEL 7
+- Additional Windows Support for AWS OpsWorks
+
+* S3
+
+- Amazon S3 Update – Notification Enhancements & Bucket Metrics
+- Usability Enhancements (Bucket Limit Increase and Read-after-write Consistency) for Amazon S3
+- AWS Data Pipeline Now Supports All Amazon RDS Databases
+- AWS CloudTrail Support for Amazon S3
+
+* RDS
+
+- License-Included Offering for SQL Server Enterprise Edition on Amazon RDS
+- Amazon RDS for Oracle Now Supports the R3 and T2 Instance Families
+- Amazon RDS for Oracle’s Transparent Data Encryption is now Integrated with AWS CloudHSM in the Asia Pacific (Tokyo and Singapore) Regions
+
+* Redshift
+
+- Amazon Redshift Now Supports Cross-Region Backups for KMS-Encrypted Clusters
+- Amazon Redshift Now Supports Dynamic Work Load Management and List Aggregate Functions
+
+* WorkSpaces Application Manager
+
+- WorkSpaces Application Manager (WAM) Lite Plan
+
+* Misc
+
+- Monitor Your AWS Free Tier Usage
+- AWS Will be Switching to the SHA256 Hash Algorithm for SSL Certificates
+- All SDKs got updated
+- New APN Competency – Mobile Solutions
+- AWS Pop-up Loft in London
+- AWS Console Mobile App with Enhanced ELB Support
+- Amazon Underground – A New Business Model for Android Apps
+- AWS Mobile SDK for Xamarin is Now Generally Available
+- AWS Config Console with Simplified Resource Discovery
+- Mock Integration for the Amazon API Gateway
+- Tagging Support for AWS Storage Gateway
